@@ -8,6 +8,7 @@ namespace lab3_1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("practice for git hub");
+            Console.WriteLine("test");
         }
     }
 }
